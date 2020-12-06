@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tallySystem</string>
+    <string name="login_title">理 货 员 系 统</string>
+    <string name="user_name">用户名</string>
+    <string name="password">密 码</string>
+    <string name="login">登 录</string>
+</resources>
